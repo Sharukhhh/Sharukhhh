@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there, I'm Sharuk 👋
+
+### MERN Full-Stack Developer
+
 
 <!--
 **Sharukhhh/Sharukhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sharuk01?theme=wtf&font=Tajawal&ext=heatmap)
