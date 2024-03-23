@@ -1,6 +1,5 @@
-## Hi there, I'm Sharuk 👋
+## Hi there, I'm Sharuk, I'm MERN Full-Stack Developer 👋
 
-### MERN Full-Stack Developer
 
 
 <!--
