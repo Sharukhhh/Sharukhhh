@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img height='50' width='50' src='https://icons8.com/icon/v8RpPQUwv0N8/html-5' /> <img height='50' width='50' src='https://icons8.com/icon/21278/css3' /> <img height='50' width='50' src='https://icons8.com/icon/jD-fJzVguBmw/redux' /> <img height='50' width='50' src='https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css' /> 
 -->
 
-
+## My leetcode statistics: 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sharuk01?theme=wtf&font=Tajawal&ext=heatmap)
 
 
