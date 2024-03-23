@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sharuk01?theme=wtf&font=Tajawal&ext=heatmap)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharukhhh&bg_color=ccc8ea&color=9e614c&line=420a3e&point=e52a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
