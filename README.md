@@ -28,5 +28,9 @@ Here are some ideas to get you started:
 ## My leetcode statistics: 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sharuk01?theme=wtf&font=Tajawal&ext=heatmap)
 
-## My Contribution Graph:
+## My Contribution :
+![image](https://github.com/Sharukhhh/Sharukhhh/assets/122154110/a350197d-300c-41b2-b647-b13401a1ae57)
+
+---
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharukhhh&bg_color=ccc8ea&color=9e614c&line=420a3e&point=e52a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
