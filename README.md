@@ -1,4 +1,4 @@
-## Hi there, I'm Sharuk, I'm MERN Full-Stack Developer 👋
+## Hi there, I'm Sharuk, I'm a Full-Stack Developer 👋
 
 
 
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ## My leetcode statistics: 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sharuk01?theme=wtf&font=Tajawal&ext=heatmap)
 
-
+## My Contribution Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharukhhh&bg_color=ccc8ea&color=9e614c&line=420a3e&point=e52a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
