@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 
 #### I code in: 
 <img height='50' width='50' src='https://icons8.com/icon/108784/javascript' /> <img height='50' width='50' src='https://icons8.com/icon/bzf0DqjXFHIW/react' /> 
 <img height='50' width='50' src='https://icons8.com/icon/jD-fJzVguBmw/redux' />  <img height='50' width='50' src='https://icons8.com/icon/hsPbhkOH4FMe/node-js' /> <img height='50' width='50' src='https://icons8.com/icon/SDVmtZ6VBGXt/express-js' /> <img height='50' width='50' src='https://icons8.com/icon/74402/mongodb' /> <img height='50' width='50' src='https://icons8.com/icon/gKfcEStXI1Hm/mongoose' /> <img height='50' width='50' src='https://icons8.com/icon/38561/postgresql' />
 <img height='50' width='50' src='https://icons8.com/icon/v8RpPQUwv0N8/html-5' /> <img height='50' width='50' src='https://icons8.com/icon/21278/css3' /> <img height='50' width='50' src='https://icons8.com/icon/jD-fJzVguBmw/redux' /> <img height='50' width='50' src='https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css' /> 
--->
+
 
 ## My leetcode statistics: 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sharuk01?theme=wtf&font=Tajawal&ext=heatmap)
