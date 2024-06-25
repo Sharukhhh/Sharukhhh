@@ -1,5 +1,5 @@
-## Hi there, I'm Sharuk, I'm a Full-Stack Developer 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73014&background=FFE0AD1A&random=false&width=435&lines=Mohamed+Sharuk;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 <!--
