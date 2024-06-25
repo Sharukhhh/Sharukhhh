@@ -16,11 +16,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sharukhhh&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharukhhh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharukhhh&bg_color=ccc8ea&color=9e614c&line=420a3e&point=e52a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sharukhhh&icon=6&color=7)](https://visitcount.itsvg.in)
@@ -30,6 +31,3 @@
 ## My leetcode statistics: 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sharuk01?theme=wtf&font=Tajawal&ext=heatmap)
 
-## My Contribution :
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharukhhh&bg_color=ccc8ea&color=9e614c&line=420a3e&point=e52a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
