@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Sharukhhh&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me: (msharuk.b10@gmail.com)
+- 📫 How to reach me: msharuk.b10@gmail.com
 <!--
 **Sharukhhh/Sharukhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
