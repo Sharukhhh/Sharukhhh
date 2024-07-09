@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73014&background=FFE0AD1A&random=false&width=435&lines=Mohamed+Sharuk;Full+Stack+Developer;MERN+Stack+Developer;Software+Developer)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=Sharukhhh&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sharukhhh&label=Profile%20Views&color=12&icon=6&pretty=false)](msharuk.b10@40gmail.com)
 
 - 📫 How to reach me: 
 - ![Static Badge](https://img.shields.io/badge/Email-msharuk.b10%40gmail.com-blue)
