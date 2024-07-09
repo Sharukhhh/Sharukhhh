@@ -3,8 +3,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=Sharukhhh&label=Profile%20Views&color=12&icon=6&pretty=false)]()
 
-- 📫 How to reach me: 
-- [![gmail](https://img.shields.io/badge/Email-msharuk.b10%40gmail.com-blue)](msharuk.b10@gmail.com)
+📫 How to reach me:
+- email: msharuk.b10@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sharuk/)
 
 
